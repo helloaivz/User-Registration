@@ -1,0 +1,6 @@
+![LOGIN PAGE](https://github.com/helloaivz/User-Registration/assets/45892614/caa67ce2-5f5b-483b-81c4-a59cb9b031c6)
+![REGISTER user exist](https://github.com/helloaivz/User-Registration/assets/45892614/6b04da56-15e3-4873-ae9b-0b0aaa746399)
+![REGISTER success](https://github.com/helloaivz/User-Registration/assets/45892614/851a29a6-5ca2-439b-928e-e38124d9fb2b)
+![REGISTER PAGE](https://github.com/helloaivz/User-Registration/assets/45892614/fa3d34de-336f-4b3e-9b99-db25bd5dcb06)
+![FIRST LOGIN INTRO PAGE](https://github.com/helloaivz/User-Registration/assets/45892614/95e540a2-1f64-4c64-9b84-d17fd65f831c)
+![DETAILS PAGE](https://github.com/helloaivz/User-Registration/assets/45892614/c14349ac-575e-4b25-9bde-367716467774)
